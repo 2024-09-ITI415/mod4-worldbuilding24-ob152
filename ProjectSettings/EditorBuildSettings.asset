@@ -27,6 +27,6 @@ EditorBuildSettings:
     path: Assets/_Labs/06-Particles/06-Particles.unity
     guid: 9b6d9c98791c649bdb250b25906f649f
   - enabled: 1
-    path: Assets/_Labs/07-Prototype4/07-Prototype4.unity
+    path: Assets/07-Prototype4/Scene1.unity
     guid: a0d2a73e11b0743f4abfb05dbe92329b
   m_configObjects: {}
